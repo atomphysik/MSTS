@@ -14,10 +14,11 @@
 ### Download Python And Libraries
 * python : https://www.python.org/downloads/
 * After downloading python, type these commands on powershell
-  `pip install requests`
-  `pip install gspread`
-  `pip install --upgrade oauth2client`
-  
+  ```
+   pip install requests
+   pip install gspread
+   pip install --upgrade oauth2client
+  ```
 ### Make A SpreadSheet And Share It
 * share with the email in service acc key json file
 
