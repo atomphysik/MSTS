@@ -28,7 +28,7 @@
 * MAKE SURE THAT SHEETS ARE CLEAN!!
 
 ### Open Main.py With Key.json
-* Open powershell and type this `python main.py`
+* Open powershell and type : `python main.py`
   
 
 
