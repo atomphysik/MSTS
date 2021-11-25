@@ -22,12 +22,12 @@
 * share with the email in service acc key json file
 
 ### Edit Config.py
-*Open config.py with notepad, vscode, ... anything you want !!
-*Fill out values with api-key, spreadsheet url, two sheet names
-*MAKE SURE THAT SHEETS ARE CLEAN!!
+* Open config.py with notepad, vscode, ... anything you want !!
+* Fill out values with api-key, spreadsheet url, two sheet names
+* MAKE SURE THAT SHEETS ARE CLEAN!!
 
 ### Open Main.py With Key.json
-*Open powershell and type this `python main.py`
+* Open powershell and type this `python main.py`
   
 
 
