@@ -29,6 +29,12 @@
 
 ### Open Main.py With Key.json
 * Open powershell and type : `python main.py`
+* Then just type match ids which you want to export scores from!
+
+## Example(owc2021 Final matches)
+```
+type all match ids with comma(,):94198225,94215627,94237395,94267511
+```
   
 
 
